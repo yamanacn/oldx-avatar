@@ -40,6 +40,7 @@
 
 - 拿到后**直接粘贴到对话框发给 AI**，它会保存在你自己的电脑上，只有你的账户能读，之后不用再发。
 - 两个平台都按用量收费，费用记在你自己的账号上。生成人物视频之前，AI 会先告诉你分几段、大概要花多少，**你同意了才会开始**。
+- 实测参考：在 zcode 上跑一条 30 秒的视频，花费不到 1 元。
 - 只做配音的话，只需要百炼的 Key。
 
 ### 怎么用
@@ -97,6 +98,7 @@ It is a **Skill** for AI assistants. You don't need to code or edit video: insta
 
 - Just **paste the key into the chat**. The assistant stores it on your own computer, readable only by your user account, so you only need to send it once.
 - Both platforms charge by usage, billed to your own account. Before generating the video, the assistant tells you how many segments there are and the estimated cost, and **only starts after you agree**.
+- For reference: a 30-second test video run on zcode cost less than 1 yuan (RMB).
 - For voice-over only, you just need the Bailian key.
 
 ### How to use it
