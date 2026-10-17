@@ -2,6 +2,8 @@
 
 [中文](#中文) · [English](#english)
 
+**效果演示 / Demo**：<https://www.bilibili.com/video/BV1beJY6oELV/>
+
 ---
 
 ## 中文
@@ -16,6 +18,8 @@
 - 字幕：需要的话，可以自动加底部字幕（可选）。
 
 适合知识口播、产品介绍、直播带货片段、课程讲解等场景。
+
+效果演示：[B 站视频](https://www.bilibili.com/video/BV1beJY6oELV/)
 
 它是一个给 AI 助手用的"技能"（Skill）。你不需要写代码、不需要会剪辑：装好以后，用聊天的方式告诉 AI 你要做什么，剩下的由它完成。
 
@@ -72,6 +76,8 @@ Turns a script into a talking-head video **in your own voice, with your own phot
 
 Good for explainers, product introductions, live-commerce clips and course videos.
 
+Demo: [video on Bilibili](https://www.bilibili.com/video/BV1beJY6oELV/)
+
 It is a **Skill** for AI assistants. You don't need to code or edit video: install it, tell the assistant what you want in plain language, and it does the rest.
 
 ### What you need to prepare
@@ -111,3 +117,9 @@ The assistant can't hear audio or watch continuous playback. Please watch and li
 
 - Only use your own voice and photos, or ones you have permission to use.
 - An API key is like a password. Don't post it publicly; if you pasted it into a chat, you can regenerate it on the platform afterwards.
+
+---
+
+## 许可 / License
+
+MIT，见 [LICENSE](LICENSE)。/ MIT, see [LICENSE](LICENSE).
